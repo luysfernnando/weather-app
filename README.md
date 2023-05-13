@@ -8,6 +8,5 @@ A idéia principal é trabalhar com os conceitos importantes como: eslint, funç
 
 ### Live demo:
 
-```
-Vercel: [https://vercel.com](Será atualizado quando o projeto for finalizado)
-```
+Vercel: [https://lf-weather-app.vercel.app/](https://lf-weather-app.vercel.app/)
+
